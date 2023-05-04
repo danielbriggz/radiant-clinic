@@ -1,4 +1,4 @@
-# radiant-clinic
+# Radiant Clinic
 
 ### Overview
 This is a frontend development of Radiant Landing Page.
@@ -9,7 +9,8 @@ The goal is to give you a reason to smile.
 
 ## Creator
 This was designed and developed by **Daniel Briggz Adisa**.
+
 Social Media links:
-[LinkedIn](https://linkedin.com/danieladisa)
-[Twitter](https://twitter.com/danielBriggz)
-[Instagram](https://instagram.com/danielbriggz)
+- [LinkedIn](https://linkedin.com/danieladisa)
+- [Twitter](https://twitter.com/danielBriggz)
+- [Instagram](https://instagram.com/danielbriggz)
